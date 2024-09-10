@@ -1,0 +1,6 @@
+store_id,store_name,surface,format_id,commune,opening_date,is_active,sanitary_resolution,process_room,frogmi_id,frogmi_is_active,baking_trays_for_bakery
+67,CASABLANCA,550,01,CASA BLANCA,01-10-2008,True,False,True,e8b53fa4-b464-42ba-a041-ffc4a32c244c,False, 12
+328,GRAN AVENIDA I,1316,01,SAN MIGUEL,01-01-2008,True,True,True,a73f9e16-b44f-4e98-85b4-3c1a489f109c,False, 12
+332,1 NORTE,843,01,VIÃ‘A DEL MAR,22-06-2016,True,True,True,42528cbf-43c7-40d1-83b4-abea2e2c3f62,False, 18
+486,CIUDAD DE LOS VALLES,1156,01,PUDAHUEL,01-12-2009,True,True,True,8426398d-772b-410e-a36b-d5c32d529c94,False, 18
+978,SAN JOAQUIN,2100,01,SAN JOAQUIN,21-09-2012,True,True,True,de9184e3-ce3c-4eeb-83c4-48d3070b7ac6,False, 15

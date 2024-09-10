@@ -1,0 +1,6 @@
+store_id,oven_model,oven_brand,operative_ovens,energy_source,oven_type,accessories_type,qty_accessories,qty_inputs_per_accessory,maintainers,qty_maintainers
+67,SR7-PTF,Macadams,1,Gas,Rosticero,Pincho,3,7,1,20
+328,HR7,Hobart,1,Electrico,Rosticero,Pincho,3,7,1,24
+332,STG7,Fri-jado,1,Electrico,Rosticero,Pincho,3,7,1,24
+486,STG7,Fri-jado,1,Electrico,Rosticero,Pincho,3,7,1,20
+978,SelfCookingCenter 10x1/1 GN,Rational,1,Electrico,Cominado,Superspike,3,6,1,20
